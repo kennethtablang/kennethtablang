@@ -1,32 +1,43 @@
-<!-- Name & Title -->
-<h1 align="center">Hi, I'm Kenneth 👋</h1>
-<h3 align="center">.NET Full-Stack Developer | Instructor | Tech Problem Solver</h3>
+<!-- Profile Picture -->
+<img src="https://your-image-link-here" alt="Kenneth's Profile Picture" width="150" style="border-radius: 50%;" />
+
+# Hi, I'm Kenneth 👋
+**.NET Full-Stack Developer | Instructor | Project Advisor**
+
+I specialize in building **scalable business systems** with modern tech stacks, combining clean architecture with practical, real-world solutions.  
+Currently, I also serve as a **Project Advisor** for my students, guiding them in developing innovative software solutions.
 
 ---
 
 ## 💡 About Me
-<!-- Leave this blank for you to fill in -->
-I’m passionate about building **scalable business systems** and crafting **efficient frontend-backend solutions**.  
-Currently working on a **Point of Sale System** for SMEs with **ASP.NET Core Web API** + **React** + **TailwindCSS**.
+- Experienced in **full-stack development** for enterprise-grade systems.
+- Advocate for **clean architecture** and maintainable codebases.
+- Skilled at implementing **RESTful APIs** and following **MVC** & **Service Layer patterns**.
+- Passionate about mentoring and helping others succeed in their tech careers.
 
 ---
 
 ## 🚀 What I'm Good At
-<!-- ✍️ This is your space to add bullet points or short descriptions -->
-- Designing & developing enterprise-level applications
-- Creating optimized APIs with ASP.NET Core
-- Crafting responsive, dynamic UIs with React & Tailwind
-- Implementing secure, scalable architectures
+- Building **BIR-compliant** and government-standard systems.
+- Designing **database-driven** applications with SQL Server.
+- Developing **scalable backend APIs** with ASP.NET Core.
+- Creating **modern, responsive UIs** with React + TailwindCSS.
+- Applying **best practices** in architecture, deployment, and security.
 
 ---
 
 ## 🛠 Tech Stack
-<p align="center">
-  <!-- Backend -->
+<p>
+  <!-- Languages -->
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+
+  <!-- Backend -->
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=ef&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
 
   <!-- Frontend -->
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -37,24 +48,28 @@ Currently working on a **Point of Sale System** for SMEs with **ASP.NET Core Web
   <!-- Database -->
   <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
 
+  <!-- Concepts & Patterns -->
+  <img src="https://img.shields.io/badge/RESTful_APIs-02569B?style=for-the-badge&logo=api&logoColor=white" />
+  <img src="https://img.shields.io/badge/MVC_Pattern-FF6F00?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Service_Pattern-4CAF50?style=for-the-badge&logoColor=white" />
+
   <!-- Tools -->
+  <img src="https://img.shields.io/badge/Visual_Studio_2022-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual_Studio_2022-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
 </p>
 
 ---
 
 ## 📌 Featured Projects
-- 🛒 **POS System for SMEs** — Multi-role, BIR-compliant POS with inventory, reports, and receipt printing.
-- 📊 **Dashboard & Analytics** — Interactive charts and reports with role-based access control.
-- 🔐 **User Management Module** — Secure authentication & role-based permissions using JWT.
+- 🛒 **BIR-Compliant POS for SMEs** — Multi-role, BIR-compliant POS with inventory, reports, and receipt printing.
+- 📅 **Class Scheduling System** — A system to manage class schedules, optimize room usage, and avoid conflicts.
+- 🏖 **Leave Management System** — Employee leave tracking, approval workflows, and reporting.
 
 ---
 
 ## 📫 Connect with Me
-<p align="center">
+<p>
   <a href="mailto:youremail@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -68,6 +83,4 @@ Currently working on a **Point of Sale System** for SMEs with **ASP.NET Core Web
 
 ---
 
-<p align="center">
-  <i>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</i>
-</p>
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
