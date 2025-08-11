@@ -1,6 +1,3 @@
-<!-- Profile Picture -->
-<img src="https://your-image-link-here" alt="Kenneth's Profile Picture" width="150" style="border-radius: 50%;" />
-
 # Hi, I'm Kenneth 👋
 **.NET Full-Stack Developer | Instructor | Project Advisor**
 
