@@ -1,8 +1,3 @@
-<!-- Centered Profile Picture -->
-<p align="center">
-  <img src="https://your-image-link-here" alt="Kenneth's Profile Picture" width="200" style="border-radius: 50%;" />
-</p>
-
 <!-- Name & Title -->
 <h1 align="center">Hi, I'm Kenneth 👋</h1>
 <h3 align="center">.NET Full-Stack Developer | Instructor | Tech Problem Solver</h3>
