@@ -1,5 +1,5 @@
 # Hi, I'm Kenneth 👋
-**.NET Full-Stack Developer | Instructor | Project Advisor**
+**.NET Full-Stack Developer | System Analyst | Instructor | Project Advisor**
 
 I specialize in building **scalable business systems** with modern tech stacks, combining clean architecture with practical, real-world solutions.  
 Currently, I also serve as a **Project Advisor** for my students, guiding them in developing innovative software solutions.
