@@ -73,7 +73,7 @@ Currently, I also serve as a **Project Advisor** for my students, guiding them i
   <a href="https://www.linkedin.com/in/kennethtablang">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/kennethtablang">
+  <a href="https://kennethtablang.github.io/kenneth-portfolio/">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
